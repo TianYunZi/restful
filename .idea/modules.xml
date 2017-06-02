@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1.5.2.my-first-webapp/1.5.2.my-first-webapp.iml" filepath="$PROJECT_DIR$/1.5.2.my-first-webapp/1.5.2.my-first-webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.5.1.my-first-service/1.5.my-first-service.iml" filepath="$PROJECT_DIR$/1.5.1.my-first-service/1.5.my-first-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.6.2.myrest-servlet3-webxml/1.6.2.myrest-servlet3-webxml.iml" filepath="$PROJECT_DIR$/1.6.2.myrest-servlet3-webxml/1.6.2.myrest-servlet3-webxml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.6.3.myrest-subservlet/1.6.3.myrest-subservlet.iml" filepath="$PROJECT_DIR$/1.6.3.myrest-subservlet/1.6.3.myrest-subservlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.6.4.myrest-servlet3-application/1.6.4.myrest-servlet3-application.iml" filepath="$PROJECT_DIR$/1.6.4.myrest-servlet3-application/1.6.4.myrest-servlet3-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.1.simple-service-3/2.1.simple-service-3.iml" filepath="$PROJECT_DIR$/2.1.simple-service-3/2.1.simple-service-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaTest13-jax-rs2.iml" filepath="$PROJECT_DIR$/JavaTest13-jax-rs2.iml" />
+    </modules>
+  </component>
+</project>
