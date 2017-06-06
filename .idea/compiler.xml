@@ -12,6 +12,8 @@
         <module name="1.6.3.myrest-subservlet" />
         <module name="1.6.4.myrest-servlet3-application" />
         <module name="2.1.simple-service-3" />
+        <module name="7.2.springboot-demo" />
+        <module name="7.3.1.boot.cloud.zookeeper" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -21,6 +23,8 @@
       <module name="1.6.3.myrest-subservlet" target="1.8" />
       <module name="1.6.4.myrest-servlet3-application" target="1.8" />
       <module name="2.1.simple-service-3" target="1.5" />
+      <module name="7.2.springboot-demo" target="1.8" />
+      <module name="7.3.1.boot.cloud.zookeeper" target="1.8" />
       <module name="JavaTest13-jax-rs2" target="1.5" />
     </bytecodeTargetLevel>
   </component>

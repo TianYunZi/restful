@@ -15,6 +15,8 @@
         <module>1.6.3.myrest-subservlet</module>
         <module>1.6.4.myrest-servlet3-application</module>
         <module>2.1.simple-service-3</module>
+        <module>7.2.springboot-demo</module>
+        <module>7.3.1.boot.cloud.zookeeper</module>
     </modules>
 
 
